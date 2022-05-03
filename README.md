@@ -8,7 +8,7 @@ Soy estudiante de la licenciatura en gestión en tecnologías de la información
 
 * 🌍  En Buenos Aires
 * 🖥️  Puedes ver mi portafolio [aquí](http://matias-py.github.io/Portafolio/)
-* ✉️   Envíame un mail [matiasba\_fb@hotmail.com](mailto:matiasba_fb@hotmail.com)
+* ✉️   Envíame un mail [aquí](mailto:matiasba_fb@hotmail.com)
 
 ### Skills
 
