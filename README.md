@@ -7,8 +7,8 @@ Web developer
 Soy estudiante de la licenciatura en gestión en tecnologías de la información y me especializo en el desarrollo de aplicaciones web
 
 * 🌍  En Buenos Aires
-* 🖥️  Puedes ver mi portafolio en [matias-py](http://matias-py.github.io/Portafolio/)
-* ✉️  Pueden contactarme en [matiasba\_fb@hotmail.com](mailto:matiasba_fb@hotmail.com)
+* 🖥️  Puedes ver mi portafolio [aquí](http://matias-py.github.io/Portafolio/)
+* ✉️   Envíame un mail [matiasba\_fb@hotmail.com](mailto:matiasba_fb@hotmail.com)
 
 ### Skills
 
