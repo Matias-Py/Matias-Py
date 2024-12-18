@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-💻Full-Stack developer<br>📚 Estudiante de la licenciatura en gestión en tecnologías de la información<br> 
+💻Programador<br>📚 Estudiante de la licenciatura en gestión en tecnologías de la información<br> 
 
 
 ## 🌐 Redes:
