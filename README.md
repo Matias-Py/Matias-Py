@@ -1,4 +1,4 @@
-# 💫 Sobre mi:
+# 👨‍💻 Sobre mi:
 💻Programador<br>📚 Estudiante de la licenciatura en gestión en tecnologías de la información<br> 
 
 
